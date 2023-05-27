@@ -1,2 +1,2 @@
 # BombayTask
-Username can be changed after running to test in other to ensure both test works.
+Username should be changed after running test in other to ensure both test runs successfully.
